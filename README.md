@@ -22,3 +22,7 @@ and we would hope to see that a 2 GPU implementation could perform the same (mea
 ## References
 
 https://people.eecs.berkeley.edu/~driscoll/cs267/hw0/pdfs/KiChow.pdf
+
+## Images
+
+![alt text](https://raw.githubusercontent.com/jpfrancis/CSCI-653/img.png)
