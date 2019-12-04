@@ -1,4 +1,4 @@
-# CSCI-653 Final Project: GPU-accelerated ray tracing for volumetric rendering of simulation data
+# CSCI-653 Final Project: GPU-accelerated ray tracing for interactive volumetric rendering of simulation data
 
 ## Project Description
 Rendering simulation data for interactive viewing is limited by the amount of particles. Must draw every sphere at every frame. Each sphere requires an iso surface.
