@@ -21,7 +21,7 @@ A qualitative result of our technique is deployed on 3D nanocarbon simulation da
 
 It should also be mentioned that, unlike in the baseline method, there are some noticeable visual distortions on the edges of the volume that are an artifact of the ray tracing calculation on the corner of the primitive surface. This is an area that warrants further development and is particularly apparent in these simulation data sets where the data is relatively sparse and granular as compared to biology.
 
-## Future directions
+## Future Directions
 Our solution is currently deployed on a local machine using only one GPU, as is typical in most gaming workstations. However, the ray casting procedure is a parallelizable process. There could be an opportunity to deploy our technique on a server using multiple GPUs, however the technical details of leveraging the Unity game engine on a distributed stack requires further investigation.
 
 Additionally, most simulation data is not only 3D but also contains a time dimension. Accordingly, we tested our technique on 3D time series data of graphene and the results can be viewed [here](https://youtu.be/lXp3FzCnnyM). Unfortunately, this application did not perform as well as the application with static 3D data. This is because, although the GPU handles the projection calculations, the CPU still must be used to load and offload the 3D textures for each individual timepoint as the simulation progresses. Our method therefore does not offer any computational gains with time series data compared to the standard method of translating individual spheres in space. 
