@@ -34,3 +34,7 @@ Luckily, there are many solutions that have been developed for video streaming a
 Beyer, Johanna, Markus Hadwiger, and Hanspeter Pfister. 2014. “A Survey of GPU-Based Large-Scale Volume Visualization.” In Eurographics Conference on Visualization (EuroVis)(2014). IEEE Visualization and Graphics Technical Committee (IEEE VGTC). http://people.seas.harvard.edu/~jbeyer/files/documents/beyer_star_large_volren_14.pdf.
 
 https://people.eecs.berkeley.edu/~driscoll/cs267/hw0/pdfs/KiChow.pdf
+
+https://www.youtube.com/watch?v=X4H1Yx9Si7E&t=3s
+
+https://www.youtube.com/watch?v=lXp3FzCnnyM
